@@ -1,0 +1,189 @@
+﻿#Generaldirektören har ordet… 
+
+Det finns många offentliga verksamheter som är duktiga på digitalisering och som har 
+kommit långt i sin utveckling men det finns också många som precis har startat. DIGG 
+startade sin verksamhet den 1 september och vi har under årets sista fyra månader börjat 
+fylla vår roll att samordna och stödja den förvaltningsgemensamma digitaliseringen. Målet 
+är att den offentliga förvaltningen ska bli mer effektiv och ändamålsenlig. För att skapa 
+verklig nytta i Sverige så behöver vi arbeta tillsammans - digitalisering är en lagsport! 
+
+DIGG ska skapa basen som alla kan bygga vidare på och dessutom stödja i hur man 
+utvecklar verksamheten med hjälp av teknikens möjligheter. Myndigheten har ansvar för 
+viktiga delar i den förvaltningsgemensamma digitala infrastrukturen. Under hösten har vi 
+haft slutleverans av det nationella införandet av eIDAS-förordningen, vilket har inneburit 
+att en svensk eIDAS-nod för inloggning med utländsk e-legitimation i svenska e-tjänster 
+nu är etablerad. En annan viktig del är att DIGG i början av september fick ansvaret för 
+att samordna två regeringsuppdrag som involverar ett antal andra myndigheter om säker 
+och effektiv tillgång till grunddata samt om ett säkert och effektivt informationsutbyte.  
+
+DIGG är en betydelsefull aktör för att lyckas med digitaliseringen men det är hela den 
+offentliga förvaltningen som måste utvecklas tillsammans. Ett viktigt verktyg är 
+samverkan och under hösten har vi fört dialoger med både myndigheter, kommuner och 
+regioner och deltagit i olika samarbeten som redan existerar. Vi har varit ute och berättat 
+om DIGG och vi har lyssnat för att förstå vilka förväntningar och behov som finns.  
+
+Att starta en ny myndighet är väldigt roligt, särskilt när den är så efterlängtad som vi har 
+upplevt att DIGG är. Samtidigt är det också en stor utmaning att starta något nytt och få 
+på plats alla rutiner och kompetenser som behövs. Vi har precis påbörjat vår 
+gemensamma resa och jag är stolt över att få leda en myndighet med så mycket kompetens 
+och ett sådant driv från den första dagen. 
+ 
+
+#Uppgifter enligt instruktionen 
+
+DIGG:s huvudsakliga uppgifter enligt vår instruktion är att:  
+
+* samordna och stödja den förvaltningsgemensamma digitaliseringen,  
+
+* ansvara för den förvaltningsgemensamma digitala infrastrukturen, 
+
+* bistå regeringen med underlag för utvecklingen av digitaliseringen av den offentliga 
+förvaltningen och 
+
+* följa och analysera utvecklingen av densamma. 
+
+#Elektronisk identifiering 
+
+Vad gäller området elektronisk identifiering ansvarar DIGG för följande: 
+
+* den offentliga förvaltningens tillgång till infrastruktur och tjänster för elektronisk 
+identifiering och underskrift  
+
+* att tillhandahålla och administrera valfrihetssystem rörande tjänster för elektronisk 
+identifiering 
+
+* att de svenska förbindelsepunkterna (noderna) för gränsöverskridande elektronisk 
+identifiering är i enlighet med Europaparlamentets och rådets förordning 
+
+* är gemensam kontaktpunkt för eIDAS-samarbetet  
+
+Den svenska infrastrukturen för att ta emot utländska e-legitimationer är på plats och mer än 
+115 myndigheter och kommuner har tecknat de avtal som krävs för anslutning. Trafiken har 
+ännu inte kommit igång eftersom få andra länder är redo att släppa fram transaktionerna. För 
+flera är dock anslutningsarbetet så långt framskridet att det bara handlar om några dagars 
+anslutningsarbete innan vi gått i mål.  
+
+I de internationella samarbetsorgan där eIDAS-utvecklingen bedrivs har den svenska 
+delegationen konsekvent drivit frågor om att inte tumma på säkerheten samtidigt som vi har 
+bidragit med lösningar på svåra tekniska utmaningar. Därigenom har vi bidragit till att eIDAS-
+systemet kommit närmare målet, en gränsöverskridande digital marknad. 
+
+På den nationella eID-marknaden har uppdraget att tillhandahålla valfrihetssystem resulterat i att 
+det nu finns två tillgängliga valfrihetssystem, ett för de sedan länge etablerade eID-
+leverantörerna och ett för nytillkomna leverantörer som erbjuder sina tjänster via de 
+standardiserade gränssnitt DIGG ställer krav på. De mest efterfrågade leverantörerna har anslutit 
+sig liksom ett antal myndigheter och kommuner.  
+ 
+*Elektroniska försändelser, informationsutbyte och inköp  
+
+DIGG ska främja användningen av den myndighetsgemensamma infrastrukturen för säkra 
+elektroniska försändelser och samordna frågor om gemensamma standarder för den offentliga 
+förvaltningens elektroniska informationsutbyte. Dessutom ska DIGG främja elektroniska 
+inköpsprocesser inom den offentliga förvaltningen.  
+
+Inom e-handelsområdet har DIGG bland annat publicerat resultaten från den återkommande 
+uppföljningen av myndigheternas e-handel. Undersökningen följer upp ett antal nyckeltal för att 
+kunna analysera utvecklingen inom området. Resultatet visade att staten som helhet ökat sin 
+andel e-fakturor, och ökningen sker i en snabbare takt än tidigare. Utfallet tros vara ett resultat 
+av myndigheternas förberedelser inför den kommande lagen om obligatorisk e-faktura, samt att 
+de i högre utsträckning än tidigare ställer krav på e-faktura i sina upphandlingar. Även antalet 
+elektroniska beställningar har tydligt ökat jämfört med tidigare år, vilket är positivt då detta är 
+ett område som DIGG och tidigare ESV fokuserat mycket på (i form av till exempel utbildningar, 
+informationsspridning, filmer m.m.).  
+
+Det finns dock en förhållandevis konstant andel myndigheter som ännu inte kommit igång med 
+att göra elektroniska beställningar, vilket inte förändrats jämfört med tidigare mätningar. 
+Sammantaget visar resultatet att många myndigheter behöver förbättra sitt e-handelsarbete 
+ytterligare, för att kunna realisera de effektiviseringsvinster som e-handel möjliggör. Resultatet 
+av undersökningen har varit efterfrågat och har fått stor spridning efter DIGG:s publicering1. 
+DIGG har tagit fram en animerad film om nyttan med e-handel med syftet att offentliga 
+organisationer ska öka sina elektroniska beställningar. Filmen kan användas internt som verktyg 
+för förändringsledning i organisationen. Filmen har ett stort antal visningar och flera 
+organisationer har även lagt upp filmen på sin egen webbplats.  
+
+DIGG har också en roll inom SFTI (Single Face to Industry). Myndigheten har bland annat 
+medverkat i vägledningen om krav på e-handel i upphandlingar, hållit i utbildningar på 
+grundkursen om e-handel för offentlig sektor och i grundkursen om PEPPOL, samt hållit 
+föredrag och anordnat e-handelsdagarna (en tvådagars e-handelskonferens med ca 270 
+deltagare). Som Sveriges PEPPOL-myndighet har DIGG hanterat möten, frågeställningar och 
+information via de operatörer som är accesspunkter i PEPPOL-nätverket och som har kontrakt 
+med DIGG. En ökad anslutningsgrad till PEPPOL:s nätverk förekommer även för kommuner, 
+vilket delvis kan förmodas vara ett resultat av det informationsarbete som DIGG och SFTI gjort
+på området.  I arbetet som PEPPOL-myndighet har DIGG även medverkat i internationella PEPPOL 
+Authority-möten,anordnat AP-fora för accesspunkter, samt medverkat i arbetsgrupper 
+för en ny avtalsstruktur som kommer att ersätta befintliga avtal. I stort sett samtliga2 statliga 
+myndigheter är anslutna till PEPPOL sedan den 1:a november 2018, i enlighet med 
+föreskrifterna till förordning 2003:770. 
+
+#Elektroniska fakturor 
+
+Myndigheten ska ge stöd och lämna information till privata leverantörer avseende elektroniska 
+fakturor. Myndigheten ska besluta om sådana förelägganden som avses i 7 § lagen (2018:1277) 
+om elektroniska fakturor till följd av offentlig upphandling som träder ikraft den 1 april 2019. 
+
+DIGG har under hösten 2018 publicerat en informationsfilm om lagkravet. Filmen har delats 
+med intressenter som Svenskt Näringsliv, Verksamt.se, Företagarna, Småföretagarna, Almega, 
+Swedish Medtech, Bankföreningen med flera. Flera av organisationerna har också lagt upp 
+information om lagen på sin webbplats.  
+
+Två enkätundersökningar om småföretagens möjligheter att e-fakturera är genomförda. 
+Resultatet3 från båda dessa visar att 75 % av småföretag med färre än 50 anställda inte skickar  
+e-faktura idag.  
+
+En mall för kommunikationsstöd till varu- och tjänsteleverantörer finns publicerad på DIGG:s 
+webbplats. Tanken är att upphandlande myndigheter och enheter kan använda mallen för att 
+kommunicera lagkravet till berörda leverantörer. 
+
+Föreskriftsarbete pågår för att styra in kommuner och regioner mot PEPPOL:s infrastruktur, 
+särskilt att vara registrerade som fakturamottagare i PEPPOL samt att kunna tillhandahålla en 
+fakturaportal till leverantörer som saknar egen möjlighet att e-fakturera.  
+
+Uppdaterat stödmaterial finns på DIGG:s webb inklusive nedladdningsbara i PDF-format.  
+Föreläsningar, rådgivning, frågor och svar samt tillgänglighet via e-post och telefon har varit 
+andra exempel på stödjande åtgärder. Under hösten har myndigheten löpande fått 10 till 20 
+frågor i veckan, främst e-post, som rör lagkravet på e-faktura. De flesta frågeställningar hanteras 
+inom samma dag.  
+
+I slutet av 2018 har DIGG även inlett ett samarbete med Unionen respektive 
+Installatörsföretagen för att nå deras medlemmar i företagargruppen.  
+
+Inom ramen för EU-samarbetet har DIGG deltagit i det europeiska forumet EMSFEI och bland 
+annat återrapporterat om den svenska implementationen av e-fakturadirektivet. 
+
+#Främja förvaltningsgemensam digitalisering  
+
+DIGG ska främja öppen och datadriven innovation samt tillgängliggörande av öppna data och 
+vidareutnyttjande av handlingar från den offentliga förvaltningen. 
+
+Under 2018 har DIGG tagit över den nationella portalen för öppna data, oppnadata.se, från 
+Riksarkivet. DIGG har även startat upp samverkan med olika parter inom öppen och datadriven 
+innovation, till exempel Tillväxtverket och Hack for Sweden. DIGG är med och deltar i 
+styrgruppen för Hack for Sweden. En viktig grundförutsättning för att skapa innovativa digitala 
+lösningar för samhällsnytta är tillgången till betydande mängder användbar öppna data. I syfte att 
+främja en ökad samverkan och koordination på området bjöd DIGG in till en första nätverksträff 
+inom öppna data i december. DIGG har även representerat Sverige vid EU-kommissionens PSI 
+expertforum i Luxemburg.  
+
+Inom ramen för Expertgruppen för digitala Investeringar har DIGG under verksamhetsåret 
+fokuserat på kunskapsöverföring, utveckling av metoder och arbetssätt samt övertagande av 
+vissa utestående arbetsuppgifter. Kunskapsöverföringen från det tidigare arbetet har främst skett 
+genom möten med det tidigare kansliet och ledamöter i den tidigare expertgruppen. Metoder 
+och arbetssätt har utvecklats internt inom DIGG och vid olika tillfällen stämts av med enheten 
+för digital förvaltning vid Regeringskansliet, med av regeringen utsedda ledamöter i 
+expertgruppen och med representanter från eSams arbetsgrupp. Bland de arbetsuppgifter som 
+övertagits och genomförts under verksamhetsåret finns slutförande av rekommendationer till 
+Trafikverket, samt begäran om att inkomma med statusrapportering i uppföljande syfte från de 
+myndigheter som innan den 30 juni 2018 fått rekommendationer av den tidigare Expertgruppen 
+för digitala investeringar. 
+
+Vad gäller området användardriven verksamhetsutveckling har DIGG under hösten sonderat 
+området och tagit del av det arbete som hittills gjorts av andra aktörer. Myndigheten har även
+träffat några av områdets mest seniora personer och diskuterat behovet av att delta i 
+standardiseringsarbete. Området har främst vävts in inom ramen för den ökade digitala 
+kompetensen då vi inte har för avsikt att arbeta med det i ett separat spår. 
+
+Det har påbörjats ett arbete kring digital mognad och kompetens. Fokus ligger på hur DIGG kan 
+skapa rätt förutsättningar för digitalisering av hela den offentliga förvaltningen.   
+
+Under verksamhetsåret har ett arbete bedrivits för att ta över webbriktlinjer.se från Post- och 
+Telestyrelsen, som skall stödja främjandet av tillgänglighet till digitala tjänster.

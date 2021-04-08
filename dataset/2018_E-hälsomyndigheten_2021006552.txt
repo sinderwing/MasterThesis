@@ -1,0 +1,120 @@
+﻿#Generaldirektören har ordet 
+
+Året präglades främst av fortsatt arbete med omlokaliseringen med målet att E-hälsomyndigheten 
+ska finnas i Kalmar den 1 maj 2018. Utöver det har vi arbetat intensivt med det nya uppdraget att 
+bygga Nationella läkemedelslistan. Båda uppgifterna innebar en omfattande rekrytering av nya 
+medarbetare. 
+
+Vi har kommit en god väg i arbetet med att tillsammans bygga en ny myndighet med ett hundratal 
+nya medarbetare, nya uppdrag och arbetssätt såväl inom drift och utveckling av register och e-
+hälsotjänster som inom den mer stödjande delen av vår verksamhet. 
+
+Goda samtal och samverkan med våra samarbetspartners är viktiga steg i rätt riktning för att på ett 
+kraftfullt sätt kunna stödja Vision e-hälsa 2025 och för att bli en attraktiv arbetsgivare. 
+
+För att utveckla styrningen av verksamheten och stärka myndighetens roll inom rättsområdet, har vi 
+under året inrättat stab och rättsavdelning samt rekryterat en rättschef. I och med det är 
+ledningsgruppen fulltalig – ett viktigt led i att skapa en modern, stabil och rättssäker myndighet. 
+
+Under året har säkerhetsfrågorna fått fortsatt ökad uppmärksamhet på E-hälsomyndigheten och vi 
+vill förstärka även inom det området under det kommande året. 
+
+För mig som ansvarig chef är den statliga värdegrunden alltid i fokus. I vår ambition att stärka en 
+god myndighetskultur arbetar vi med värderingsfrågorna både på enhets- och ledningsnivå. 
+
+Mycket arbete återstår ännu för att formera en välfungerande myndighet på två orter, men nu är 
+grunden lagd. 
+
+Jag är mycket glad över det förtroende som visas oss från uppdragsgivare, styrelse och olika 
+samarbetspartners. Att så många nya kompetenta medarbetare har valt E-hälsomyndigheten som 
+arbetsgivare gör mig stolt och fylld av tillförsikt. 
+
+Under 2019 ska vi fortsatt fokusera på att utveckla vår verksamhet till nytta för e-hälsan och 
+därmed medborgarna i Sverige. Tillsammans skapar vi bättre hälsa. 
+
+
+#Resultatredovisning 
+
+#Uppdrag enligt instruktion 
+
+E-hälsomyndigheten ska ansvara för register och it-funktioner som öppenvårdsapotek och 
+vårdgivare behöver ha tillgång till för en patientsäker och kostnadseffektiv läkemedelshantering. 
+Myndigheten ska vidare samordna regeringens satsningar på e-hälsa samt övergripande följa 
+utvecklingen på e-hälsoområdet. 
+
+Myndigheten ska särskilt: 
+
+* ansvara för de register som anges i lagen (1996:1156) om receptregister och lagen 
+(2005:258) om läkemedelsförteckning 
+* utfärda intyg som visar att den som ansöker om tillstånd att bedriva detaljhandel med 
+läkemedel till konsument uppfyller de förutsättningar för tillståndet som föreskrivs i 2 kap. 
+6 § 5–7 lagen (2009:366) om handel med läkemedel 
+* vid behov genomföra kontroller av det elektroniska system för direktåtkomst till uppgifter 
+hos myndigheten som en tillståndshavare ska ha enligt 2 kap. 6 § 6 lagen om handel med 
+läkemedel 
+* förmedla ersättning från landstingen till öppenvårdsapoteken enligt vad som sägs i 
+förordningen (2002:687) om läkemedelsförmåner m.m. 
+* förvalta, framställa och tillhandahålla nationell läkemedelsstatistik 
+* tillhandahålla ett system för analys av läkemedelsstatistik 
+* ansvara för ett nationellt register över elektroniska recept för djur 
+* ansvara för ett nationellt produkt- och artikelregister över läkemedel, förbrukningsartiklar 
+och livsmedel som ingår i högkostnadsskyddet 
+* ansvara för ett nationellt register över sortiments- och leveransinformation avseende 
+dosdispenserade läkemedel 
+* tillhandahålla ett elektroniskt expertstöd till öppenvårdsapoteken i syfte att öka säkerheten 
+vid expediering av läkemedelsrecept. 
+
+#Mål och återrapporteringskrav 
+
+#Register och it-funktioner avseende läkemedelshantering 
+
+E-hälsomyndigheten har tillhandahållit register och tjänster till vårdgivare och apoteksaktörer för att 
+bidra till en patientsäker läkemedelshantering. Ett exempel på det är det elektroniska expertstödet 
+EES. Landets apotek genomförde under 2018 nära 5,2 miljoner analyser med hjälp av EES vilket är 
+en fördubbling jämfört med år 2017. På apoteket analyserar farmaceuten eventuella signaler om risk 
+för läkemedelskrockar, olämpliga läkemedel eller feldoseringar. Det här gör att olämpliga 
+förskrivningar kan upptäckas. Ett annat exempel är myndighetens register för att hantera de 
+elektroniska recepten. Åtkomsten till registren har varit fortsatt mycket god med minst 99 procents 
+tillgänglighet. 
+
+#Informationssäkerhetsarbete 
+
+Under 2018 uppdaterades informationssäkerhetspolicyn och riktlinje för informationssäkerhet samt 
+tillhörande styrande dokument och dess processer. Myndighetens processer för systematiskt 
+informationssäkerhetsarbete består av informationskartläggning, informationsklassning, riskanalys, 
+åtgärd och uppföljning. Förvaltningsledarna har i verksamhetsplanen 2018 tagit höjd för 
+säkerhetsanalyser samt genomgått anpassad informationssäkerhetsutbildning. 
+
+Myndigheten har under 2018 anställt fyra it/informationssäkerhetsexperter med särskild kompetens 
+att leda, styra och stödja verksamheten i det systematiska informationssäkerhetsarbetet. Samtliga 
+system, produkter och tjänster analyseras och dokumenteras, en process som pågår kontinuerligt. 
+
+Myndighetens ledningssystem för informationssäkerhet (LIS) har granskats av tillitsfederationen 
+Sambi samt av internrevisorn på myndigheten. I båda granskningarna är resultatet positivt, 
+myndigheten har ett fungerande LIS och de förbättringsmöjligheter som konstaterats fångas upp i 
+det fortsatta arbetet. 
+
+Myndighetens arbete med GDPR-anpassningen fortsatte under 2018 för att den 25 maj uppnå en 
+kontrollerad och acceptabel nivå. Samtliga medarbetare har genomgått GDPR-utbildning genom e-
+learning och information på möten etcetera. 
+
+Som en följd av omlokaliseringen till Kalmar har närmare ett hundratal personer anställts under året 
+och genomgått informationssäkerhetsutbildning som en del av myndighetens 
+introduktionsprogram. 
+
+Under 2018 har myndigheten på regeringens uppdrag utrett konsekvenserna av om myndigheten 
+blir en så kallad bevakningsansvarig myndighet. Om så blir fallet ökar säkerhetsarbetet i omfattning 
+i syfte att uppnå ökad tillgänglighet vid allvarliga samhällsstörningar och kriser. 
+
+Arbetet med att utveckla Nationella läkemedelslistan påbörjades 2018. Läkemedelslistan blir ett nytt 
+register som innehåller känsliga personuppgifter och omfattas därför av mycket höga krav på 
+informations- och cybersäkerhet. Under 2018 har två större säkerhetsanalyser genomförts i syfte ett 
+säkerställa och skydda registrets grundläggande funktioner och personuppgifter. 
+
+#Upphandling 
+
+E-hälsomyndigheten har under 2018 inte ställt krav på kollektivavtalsliknande villkor vid någon 
+upphandling över tröskelvärdet. Myndigheten har endast gjort ett fåtal upphandlingar över 
+tröskelvärdet 2018. Under förarbetet till dessa upphandlingar har myndigheten gjort bedömningen 
+att branscherna som upphandlats har låg risk för att inte ha kollektivavtal eller liknande villkor för 
+sina anställda.

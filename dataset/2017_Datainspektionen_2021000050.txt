@@ -1,0 +1,151 @@
+﻿#GD har ordet 
+
+Den personliga integriteten är viktigt för oss alla inte minst när den tekniska 
+utvecklingen accelererar och då personuppgifter samlas i allt fler former. Att 
+skydda vår integritet blir en allt viktigare fråga och vi är stolta över att ansvara för 
+den myndighetsuppgiften i Sverige. 
+
+Under året har Datainspektionen efterfrågats i en omfattning som vi inte tidigare 
+sett. Integritetsfrågorna står högt på dagordningen i samhället och i den politiska 
+debatten. 
+
+Regeringen aviserade i slutet av året att man avser att ytterligare satsa på området 
+och tillskjuter medel för detta. De vill se en ännu tydligare profil där 
+Datainspektionen stödjer och bistår med vår kompetens så att den enskildes 
+integritet stärks och samtidigt möjliggöra nya tjänster som ökar medborgarnas 
+livskvalitet. Myndigheten föreslås även byta namn till 
+Integritetsskyddsmyndigheten. 
+
+För att skydda den personliga integriteten och för att främja den fria handeln inom 
+EU införs en ny dataskyddsförordning. Den träder ikraft som ny lag i Sverige och i 
+övriga EU länder den 25 maj 2018 och förberedelserna inför förändringen har 
+präglat och dominerat Datainspektionens arbete under 2017. 
+
+Vårt förberedelsearbete har bedrivits i ett myndighetsövergripande 
+utvecklingsprojekt (reformprojektet). De nya funktionerna har processkartlagts för 
+att kunna digitaliseras och hanteras. Målet har varit att Datainspektionen ska 
+kunna fullgöra sina uppgifter vid ikraftträdandet av förordningen. 
+
+En modernisering av myndighetens digitala plattform genom en ny IT-plattform 
+och ett nytt ärendehanteringssystem har varit nödvändigt som teknisk 
+förutsättning för de nya uppgifterna. En ny webbplattform är också avgörande och 
+planeras tas i bruk under våren 2018. 
+
+En mängd remisser som avsett anpassning av svensk lagstiftning till EU:s 
+dataskyddsreform är ett sådant arbete där vi granskat att det finns tillräckligt 
+lagstöd för behandling av personuppgifter. 
+
+När vi nu summerar året kan vi se att förberedelserna för dataskyddsreformen 
+utgör den röda tråden. Kompetensförsörjningen har också varit central och är 
+framgent en utmaning då behovet av dataskyddskompetens är mycket eftertraktad 
+i samhället idag. 
+
+Jag har haft förmånen att bistå Datainspektionen under ett halvår i väntan på ny 
+ordinarie generaldirektör och ser att myndigheten har de bästa förutsättningar att 
+skapa en modern dataskyddsmyndighet i framkant och i nära samarbete med 
+medlemsstaterna inom EU och nationella företag och myndigheter. 
+
+
+#Datainspektionens uppdrag 
+
+Enligt förordningen (2007:975) med instruktion för Datainspektionen ska 
+inspektionen verka för att människor skyddas mot att deras personliga integritet 
+kränks genom behandling av personuppgifter och för att god sed iakttas i 
+kreditupplysnings- och inkassoverksamhet. Myndigheten ska särskilt inrikta sin 
+verksamhet på att informera om gällande regler samt ge råd och hjälp åt 
+personuppgiftsombud enligt personuppgiftslagen. Myndigheten ska följa och 
+beskriva utvecklingen på IT-området när det gäller frågor som rör integritet och ny 
+teknik. 
+
+Datainspektionen är tillsynsmyndighet enligt personuppgiftslagen (1998:204) och 
+tillstånds- och tillsynsmyndighet enligt kreditupplysningslagen (1973:1173) och 
+inkassolagen (1974:182). 
+
+Datainspektionen har det centrala ansvaret för tillsynen enligt 
+kameraövervakningslagen (2013:460). I detta ingår att 
+
+* utvärdera rättstillämpningen, 
+
+* utvärdera, följa upp och samordna den operativa tillsynen, 
+
+* ge råd och stöd till länsstyrelserna, samt 
+
+* ge information och råd till allmänheten och till dem som tillhandahåller och 
+använder övervakningsutrustning. 
+
+Datainspektionen får överklaga länsstyrelsernas beslut om kameraövervakning av 
+en plats dit allmänheten har tillträde för att ta tillvara allmänna intressen. 
+Datainspektionen har också i uppdrag att utöva tillsyn över kameraövervakning av 
+platser dit allmänheten inte har tillträde. 
+
+Myndigheten är tillsynsmyndighet enligt EU:s direktiv (95/46/EG) om skydd för 
+enskilda personer med avseende på behandling av personuppgifter och om det fria 
+flödet av sådana uppgifter. 
+
+Myndigheten ska ge bistånd enligt Europarådets dataskyddskonvention när det 
+gäller att lämna uppgifter till behörig myndighet i en stat som är ansluten till 
+konventionen. 
+
+Myndigheten är nationell tillsynsmyndighet enligt 
+
+* konventionen om tillämpning av Schengenavtalet av den 14 juni 1985 
+(Schengenkonventionen), 
+
+* rådets beslut 2009/917/RIF av den 30 november 2009 om användning av 
+informationsteknik för tulländamål (TIS- rådsbeslutet), 
+
+* rådets förordning (EG) 515/97 av den 13 mars 1997 om ömsesidigt bistånd 
+mellan medlemsstaternas administrativa myndigheter och om samarbete 
+mellan dessa och kommissionen för att säkerställa en korrekt tillämpning 
+av tull- och jordbrukslagstiftningen (förordning 515/97), 
+
+* Europaparlamentets och rådets förordning (EU) 2016/794 av den 11 maj 
+2016 om Europeiska unionens byrå för samarbete inom brottsbekämpning 
+(Europol) och om ersättande och upphävande av rådets beslut 
+2009/371/RIF, 2009/934/RIF, 2009/935/RIF, 2009/936/RIF, 2009/968/RIF, 
+
+* rådets beslut 2008/615/RIF av den 23 juni 2008 om ett fördjupat 
+gränsöverskridande samarbete, särskilt för bekämpning av terrorism och 
+gränsöverskridande brottslighet (Prümrådsbeslutet), 
+
+* Europaparlamentets och rådets förordning (EG) nr 767/2008 av den 9 juli 
+2008 om informationssystemet för viseringar (VIS) och utbytet mellan 
+medlemsstaterna av uppgifter om viseringar för kortare vistelse (VIS-
+förordningen), 
+
+* Europaparlamentets och rådets direktiv (EU) 2015/413 av den 11 mars 2015 
+om underlättande av gränsöverskridande informationsutbyte om 
+trafiksäkerhetsrelaterade brott (CBE-direktivet), i den ursprungliga 
+lydelsen, 
+
+* rådets beslut 2008/633/RIF av den 23 juni 2008 om åtkomst till 
+informationssystemet för viseringar (VIS) för sökningar för 
+medlemsstaternas utsedda myndigheter och för Europol i syfte att 
+förhindra, upptäcka och utreda terroristbrott och andra grova brott (VIS-
+rådsbeslutet), och 
+
+* rådets rambeslut 2008/977/RIF av den 27 november 2008 om skydd av 
+personuppgifter som behandlas inom ramen för polissamarbete och 
+straffrättsligt samarbete (dataskyddsrambeslutet). 
+
+Myndigheten är behörig myndighet för kontroll och intygande av att sådana 
+system för insamling av stödförklaringar via internet som används för lagring i 
+Sverige uppfyller de krav som följer av Europaparlamentets och rådets förordning 
+(EU) nr 211/2011 av den 16 februari 2011 om medborgarinitiativet. 
+
+Myndigheten ska fullgöra vissa uppgifter enligt avtalet mellan Europeiska unionen 
+och Amerikas förenta stater om behandling och överföring av uppgifter om 
+finansiella betalningsmeddelanden från Europeiska unionen till Förenta staterna i 
+enlighet med programmet för att spåra finansiering av terrorism (TFTP). 
+
+Myndigheten är tillsynsmyndighet för behandling av personuppgifter enligt avtalet 
+av den 16 december 2011 mellan Konungariket Sveriges regering och Amerikas 
+förenta staters regering om ett förstärkt samarbete för att förebygga och bekämpa 
+brottslighet och fullgör de förpliktelser som nämns i 8 kap. 12 § förordningen 
+(2017:504) om internationellt polisiärt samarbete. 
+
+Enligt regleringsbrevet för 2017 ska Datainspektionen upptäcka och förebygga hot 
+mot den personliga integriteten. Verksamheten ska främst inriktas på områden 
+som bedöms vara särskilt känsliga ur ett integritetsperspektiv, nya företeelser och 
+användningsområden av teknik samt områden där risken för missbruk eller 
+felaktig användning bedöms vara särskilt stor. 

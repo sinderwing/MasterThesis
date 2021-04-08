@@ -1,0 +1,385 @@
+﻿#Generaldirektören har ordet
+
+Verksamhetsåret 2018 är nu avslutat och 
+det är dags att se tillbaka och reflektera 
+över året som gått. 
+
+2018 har varit ett händelserikt år på många sätt, både för Rymdstyrelsen 
+och rymdvärlden i stort. Jag tog över stafettpinnen som generaldirektör 
+efter Olle Norberg den 1 juni och ser nu tillbaka på åtta mycket händelserika 
+och lärorika månader.
+
+Det känns som om tidpunkten för min start 
+blev väl vald, dels för att nationella rymdstra­
+tegin presenterades i maj, vilket ger Rymd­
+styrelsen en bra bas att utgå från, dels för att 
+det finns tid för mig att sätta mig in i verk­
+samheten inför 2019 års ministermöte vid 
+Esa (European Space Agency) då många av 
+Europas framtida rymdprogram beslutas. 
+
+Jag trivs mycket bra i min nya roll; jag har 
+fått ett bra mottagande av mina nya kolle­
+ger och är imponerad av den kompetens 
+personalen besitter. Under året har ytter­
+ligare ett antal personer börjat på myndig­
+heten, vars personalstyrka nu uppgår till 21 
+personer. I och med detta har vi stärkt vår 
+expertis och kompetens inom framförallt 
+jordobservation och juridik. 
+
+I min nya roll har det naturligtvis varit en 
+fördel att jag själv har spenderat den störs­
+ta delen av mitt yrkesverksamma liv inom 
+rymdbranschen. En av mina personliga 
+drivkrafter har alltid varit den nytta som 
+rymdverksamheten bidrar med till mänsk­
+ligheten inom en rad olika områden: klimat 
+och miljöövervakning, väderprognoser, 
+säkerhet, navigering, transporter, telekom­
+munikation, bara för att nämna några. Går 
+man igenom FN:s klimatmål, konstaterar 
+man också att rymdverksamhet är en för­
+utsättning för att nå en majoritet av målen. 
+Jag tycker att det känns positivt att fler och 
+fler inser detta faktum och att det också 
+tydligt avspeglas i den av riksdagen beslu­
+tade nationella strategin. Rymdstyrelsen 
+har en mycket viktig roll att spela i det fort­
+satta arbetet i att informera allmänhet och 
+myndigheter om nyttan av rymden. Den 
+pågående klimat debatten, kombinerat 
+med ungdomars intresse för rymd och  
+miljö, är positiva drivkrafter för de föränd­
+ringar i samhället som kommer att bli  
+nödvändiga framöver.
+
+Utöver våra ordinarie uppgifter så har 
+Rymdstyrelsen under året engagerats i ett 
+antal ytterligare aktiviteter, såsom stöd till 
+Regeringskansliet i förhandlingarna om 
+EU:s rymdförordning och framtagandet av 
+en ny långsiktig rymdstrategi för Rymdsty­
+relsen i linje med den av riksdagen beslutade 
+nationella strategin för Sverige. 
+
+För att förbereda ministermötet 2019 höll 
+Esa ett extra ministermöte i november 2018 
+där Rymdstyrelsen deltog tillsammans 
+med Regeringskansliet genom statssekre­
+terare Malin Cederfeldt Östberg. Ett viktigt 
+resultat från novembermötet var att Esa 
+och EU enades om en gemensam rymd­
+resolution angående ramarna för det fort­
+satta gemensamma samarbetet.
+
+Forskningsmässigt är det mycket gläd­
+jande att Esas satelliter BepiColumbo och 
+Aelous lyckosamt sändes upp under året. 
+BepiColumbo kommer att utforska Mer­
+kurius medan Aelous med hjälp av laser­
+teknik gör en ny typ av avancerade vind­
+mätningar i jordens atmosfär. Med den 
+lyckade uppsändningen av Chang’e­4  
+i december så kan det med glädje konsta­
+teras att Sverige nu även har ett experiment 
+på månens baksida.
+
+De viktiga Copernicus­satelliterna som  
+levererar öppna miljödata av olika slag är  
+i drift sedan ett par år tillbaka. Nu är det 
+egentligen endast kreativiteten och enga­
+gemanget hos markanvändarna som sät­
+ter begränsningarna avseende vilka sam­
+hällstjänster och kommersiella tjänster 
+som kommer att kunna erbjudas framöver. 
+Rymdstyrelsen bidrar aktivt med informa­
+tion och utbildning kring tillgång till och 
+utnyttjande av Copernicusdata. 
+
+Det är en spännande tid vi lever i, och 
+förändringstakten i världen har kanske  
+aldrig varit högre än nu. 
+
+Ett uttryck som används ofta är VUCA, som 
+är en förkortning för volatility, uncertainty, 
+complexity och ambiguity, det vill säga  
+rörlighet, osäkerhet, komplexitet och 
+tvetydighet. VUCA beskriver rymdfartens, 
+och därmed också Rymdstyrelsens, om­
+värld mycket väl:
+
+* Den kommersiella marknaden inom tele­
+kommunikation är i dramatisk förändring 
+till följd av ändrade konsumtionsmönster 
+för TV­tittande, inte minst bland yngre 
+generationer som är mer intresserade 
+av on demand­TV än av direktsända 
+program. Det innebär att framtida satel­
+liter framförallt måste kunna erbjuda 
+hög data­bandbredd och antenner som 
+kan orienteras i olika riktningar. Detta har 
+i sin tur öppnat för stora satellitkonstella­
+tioner i låg bana, varav OneWeb (cirka 
+800 satelliter) blir en av de första.
+
+* Artificiell intelligens förväntas bli alltmer 
+implementerat i samhället; ett exempel 
+som förväntas involvera satelliter är 
+självkörande bilar, där bland annat 
+mycket robust navigering förutsätts. 
+
+* Ett stort antal nya bärraketer är under 
+utveckling, främst i USA men även i Kina. 
+Hur kommer dessa att konkurrera med 
+europeiska bärraketer på den kommer­
+siella marknaden? Och kommer små­
+satelliter att utnyttja de små bärraketer 
+som är under utveckling eller kommer 
+man som hittills att föredra att dela  
+uppsändningar med större satelliter
+eftersom detta kan ge ett lägre ”kilopris 
+till bana”?
+
+* Problemet med så kallad rymdskrot blir 
+allt tydligare och kommer att accentue­
+ras när de nya kommersiella satellitkon­
+stellationerna börjar sändas upp. Vem 
+ska bära ansvaret för att plocka bort  
+fallerade satelliter, i synnerhet om de 
+kommersiella operatörerna går i konkurs? 
+
+Ytterligare ett område av betydelse för 
+Rymdstyrelsen är relationen mellan Esa 
+och EU när det gäller rymdverksamhet. Esa 
+har en stor rymdkompetens som har 
+byggts upp under lång tid, samtidigt som 
+EU nu tydligt höjer sina rymdambitioner för 
+varje år som går. Det är naturligtvis mycket 
+viktigt att relationen mellan de två är kon­
+struktiv och tydlig, och inte genererar onö­
+diga kostnadsökningar för europeiska 
+skatte betalare. Det faktum att medlems­
+underlagen i de både organisationerna 
+inte är identiska bidrar också till ökad 
+komplexitet.
+
+2019 kommer att bli ett händelserikt 
+rymdår på många sätt. En händelse som 
+jag speciellt vill framhålla är den planerade 
+uppsändningen av Mats (Mesospheric 
+Airglow/Aerosol Tomography and Spectro­
+scopy). Mats är den första i serien av små 
+innovativa svenska forskningssatelliter och 
+målsättningen är att regelbundet kunna 
+sända upp denna typ av satelliter. Det är 
+viktigt att kontinuerligt utveckla våra svens­
+ka förmågor inom rymdområdet, både på 
+teknik­ och forskningssidan, för att säker­
+ställa Sveriges konkurrenskraft 
+internationellt. 
+
+Det känns mycket bra att som ny general­
+direktör både ha den av riksdagen beslutade 
+nationella strategin, och Rymdstyrelsens 
+långsiktiga strategi på plats. Nu är utma­
+ningen att manövrera, på ett för Sverige så 
+konstruktivt sätt som möjligt, i en omvärld  
+i förändring. Vår ambition är att skapa så 
+bra utvecklingsmöjligheter som möjligt 
+trots de kommande årens begränsade 
+ekonomiska ramar.
+
+Jag ser hoppfullt på framtiden, dels för 
+att rymdverksamheten redan har en så 
+fundamental plats i våra medborgares 
+vardag, dels för att rymdområdet kan bidra 
+till att lösa de utmaningar som världen står 
+inför. Och sist men inte minst, för att vi i Sve­
+rige har en mycket god rymdkompetens 
+vår storlek till trots. 
+
+
+#Så arbetar Rymdstyrelsen
+
+Rymdstyrelsens uppgift är i första hand 
+att finansiera och initiera forskning och 
+utveckling inom rymdområdet. Detta  
+görs såväl genom finansiering av svenskt 
+deltagande i olika internationella projekt 
+som genom fördelning av nationella 
+forsknings- och utvecklingsmedel.
+
+Rymdstyrelsen är den svenska kontakten  
+inom internationellt rymdsamarbete. Rymd­
+verksamhet är huvudsakligen internationell 
+eftersom den i regel kräver att flera länder 
+samlar sin kunskap och sina resurser.  
+Huvuddelen av myndighetens finansiella 
+resurser läggs på projekt som utförs inom 
+Esa. Myndigheten bevakar också svenska 
+intressen vid fördelningen av EU­medel.  
+Det dagliga arbetet består främst i att ut­
+värdera och följa rymdprojekt och samar­
+beten, både nationellt och internationellt. 
+Rymdstyrelsen finansierar framförallt fors­
+kares och industriers deltagande i olika 
+projekt. Den stora mängd projekt som 
+Rymdstyrelsen finansierar och följer  
+presenteras överskådligt i bilagorna. 
+
+En annan del av arbetet är att profilera 
+Sverige som en kompetent och konkur­
+renskraftig partner i det europeiska rymd­
+samarbetet. Därför krävs god samverkan 
+med olika svenska rymdaktörer, främst 
+forskare, företag och myndigheter. Rymd­
+styrelsen fungerar även som en expert­
+myndighet såväl i internationella som  
+nationella sammanhang. Dessutom arbe­
+tar Rymdstyrelsen med att främja informa­
+tionsspridning om rymden samt verkar för 
+ett ökat intresse för naturvetenskap och 
+teknik bland unga.
+
+Rymdstyrelsen har valt att inte dela in 
+verksamheten i olika verksamhetsgrenar. 
+All verksamhet är integrerad för att uppnå 
+maximala synergieffekter. Vid en liten  
+myndighet som Rymdstyrelsen har detta 
+bedömts vara det bästa sättet att arbeta 
+effektivt och uppnå gott resultat.
+
+#Personal
+
+Rymdstyrelsen hade vid årets utgång  
+21 befattningar, fördelade enligt tabell 1. 
+Myndigheten har generellt en låg sjukfrån­
+varo (tabell 2) men på en liten myndighet 
+får enstaka sjukdomsfall stort genomslag, 
+vilket syns på de två senaste årens siffror. 
+Målet är att fortsatt hålla den generella 
+sjukfrånvaron på en låg nivå. Myndigheten 
+arbetar för att minska och förebygga  
+ohälsa. Stor vikt läggs vid att främja en god 
+psykosocial arbetsmiljö och vid arbets­
+platsernas utformning. Hjälpmedel och 
+terminalglasögon köps in vid behov. Med­
+arbetarsamtal genomförs årligen. Alla 
+medarbetare erbjuds hälsokontroll och 
+influensavaccin. Rymdstyrelsen erbjuder 
+viss ersättning för utlägg för motion och 
+friskvård och tillhandahåller motionslokal  
+i anslutning till arbetsplatsen.
+
+#Kompetensförsörjning
+
+Rymdstyrelsen är en liten myndighet och 
+därmed sårbar vad gäller kompetensför­
+sörjning. Några av myndighetens ansvars­
+områden är i dagsläget beroende av  
+enskilda personer. Myndighetens personal 
+har god kompetens. Personalomsättning­
+en är låg och vid de rekryteringar som 
+gjorts under de senaste åren har det fun­
+nits ett stort antal sökande med hög kom­
+petens. Rymdstyrelsen har hittills lyckats
+hantera den stora bredden av uppgifter  
+i instruktionen men det finns för lite tid för 
+fördjupning och för att föra informationen 
+vidare till andra berörda myndigheter. 
+
+Kompetensbehov och utvecklingsmöjlig­
+heter sammanställs i en årlig kompetens­
+försörjningsplan. Verksamhetsplaneringen 
+är ett annat viktigt verktyg i arbetet med 
+kompetensförsörjning. Rymdstyrelsen har 
+inte behövt vidta några särskilda åtgärder 
+för att säkerställa att kompetens finns för 
+att fullgöra myndighetens uppgifter. 
+
+#Prestationer
+
+Enligt förordning (2000:605) om årsredovis­
+ning och budgetunderlag ska resultat­
+redovisningen främst avse hur verksam­
+hetens prestationer har utvecklats med 
+avseende på volym och kostnader. En  
+prestation definieras enligt Ekonomistyr­
+ningsverket som en produkt eller tjänst 
+som är avslutad och har lämnat myndig­
+heten. Rymdstyrelsens verksamhet enligt 
+instruktionen (2007:1115) är som 
+beskrivits ovan främst av löpande karaktär 
+och resulterar inte i produkter eller tjänster 
+som lämnar myndigheten. Därtill är de  
+flesta rymdprojekt fleråriga, några av de 
+projekt Rymdstyrelsen finansierar löper 
+över 30 år. Det är därför inte möjligt att  
+fördela någon större del av verksamheten  
+i prestationer. 
+
+Rymdstyrelsen har definierat två 
+prestationstyper:
+
+* Deltagande i ett officiellt Esa­ eller 
+EU­möte (volym: antal möten/mötes­
+dagar; kostnad: arbetstid under själva 
+mötet samt beräknade reskostnader). 
+Redovisas under kapitel Internationellt 
+rymdsamarbete.
+
+* Beslutad medelsfördelning (volym: antal 
+ansökningar/beviljade; kostnad: myndig­
+hetens direkta kostnader för arbete,  
+material och resor samt en del av 
+myndighetens indirekta kostnader).  
+Redovisas under kapitel Förutsättningar 
+och stöd för innovation på rymdområdet 
+och Forskningsfinansiering.
+
+Med denna definition klassificeras 15–20 
+procent av myndighetens verksamhet som 
+prestationer, medan övrig verksamhet är 
+av löpande eller mycket långsiktig karaktär 
+som inte ger upphov till något som kan lik­
+nas vid produkter eller tjänster som lämnar 
+myndigheten. De delar av verksamheten 
+som inte kan kategoriseras som prestatio­
+ner redovisas i löpande text.
+
+#Kvalitetssäkring
+
+#Styrelse och kommittéer
+
+Rymdstyrelsen är en styrelsemyndighet. 
+Styrelsen sammanträdde fyra gånger  
+under 2018. Rymdstyrelsens tre rådgivande 
+kommittéer möttes sex gånger under 2018. 
+De har en viktig roll i att säkerställa kvalite­
+ten i verksamhetsorientering och besluts­
+underlag. Ledamotsförteckningar återfinns 
+i bilaga 4. 
+
+Rymdstyrelsen är även mån om att ha 
+kontakter med rymdindustrin och för en 
+kontinuerlig dialog med berörd industri för 
+ömsesidigt utbyte av information och syn­
+punkter om omvärldsanalyser och tänk­
+bara framtida utvecklingslinjer.
+
+Kvalitetssäkringen av Rymdstyrelsens 
+forskningsprogram redovisas på sidan 23.
+
+#Verksamhetsplanering
+
+Verksamhetsplanering och uppföljning 
+sker årligen. Styrelsen beslutade om  
+verksamhetsplanen för 2019 vid sitt möte  
+i december 2018.
+
+#Strategi
+
+Rymdstyrelsen tog fram en ny strategi under 
+2018. Strategin är vägledande i myndighet­
+ens prioriteringar. 

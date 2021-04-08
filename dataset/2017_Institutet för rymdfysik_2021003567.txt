@@ -1,0 +1,251 @@
+﻿#Förord
+
+År 2017 var ett mycket speciellt år för Institutet 
+för rymdfysik, IRF. Tre huvudhändelser ägde rum 
+under året: IRF:s 60-årsjubileum, Statskontorets 
+myndighetsanalys och förberedelse för en om-
+organisation av forskningen. 60-årsjubileet som 
+hölls i oktober samlade mer än 200 personer och 
+blev ett mycket framgångsrikt evenemang som 
+demonstrerade inte bara institutets prestationer 
+under de senaste 60 åren utan också planer och 
+utmaningar för framtiden.
+
+Myndighetsanalysen som genomfördes under 
+perioden maj-oktober 2017 drog slutsatsen att IRF 
+”fullgör sitt uppdrag på ett mycket förtjänstfull 
+sätt”, en slutsats som alla IRF:are bör vara mycket 
+stolta över. Myndighetsanalysen indikerade också 
+nya utmaningar och gav rekommendationer om 
+hur IRF kan förbättra sin verksamhet ännu mer, 
+en vägledning som institutledningen tar på stort 
+allvar.
+
+För att förstärka markbaserad forskning och 
+skapa en ny stark dynamisk forskningsmiljö, slår 
+vi ihop två forskningsprogram till Sol-, rymd- och 
+atmosfärforskningsprogrammet (Solar, Terres­
+trial and Atmospheric Research, STAR). Vi utökar 
+också vår observatorieverksamhet som även kom-
+mer att inkludera övervakning av atmosfäriska 
+parametrar.
+
+IRF fortsätter att medverka i ett mycket stort antal 
+publikationer – fler än 125 per år under de senaste 
+tre åren. Ett stort antal (13) satelliter som IRF 
+tillverkat instrument till, var eller är fortfarande 
+fungerande och gjorde många av publikationerna 
+möjliga. Arbetet med framtida satellitprojekt 
+dominerades av utveckling och byggande av två 
+instrument för den första europeiska satelliten  
+till Jupiter, JUICE (Jupiter Icy Moons Explorer). 
+Detta är det mest utmanande rymdprojektet 
+IRF deltagit i, inte bara på grund av en mycket 
+besvärlig strålningsmiljö vid Jupiter utan också 
+på grund av de krav som ESA ställer på den här 
+typen av projekt. Ett oväntat beslut under året 
+gav oss tillfälle att leverera ett instrument till en 
+kinesisk månrover, Chang’e 4. Rymdsonden ska 
+skjutas upp under 2018. 
+
+Under 2017 avslutade den amerikanska rymd-
+sonden Cassini sin rymdmission till Saturnus och 
+dess månar genom att flyga in i jätteplanetens 
+gasmassor. Ombord fanns ett instrument från IRF 
+som gjorde mätningar under hela den 13 år långa 
+undersökningen av planeten och dess omgivning. 
+
+År 2017 var också ett mycket framgångsrikt år 
+för vår markbaserade forskning. EISCAT_3D, ett 
+nytt avancerat radarsystem, fick klartecken för 
+att starta konstruktionen. När EISCAT_3D är fär-
+digbyggt kommer det att ge unika mätmöjligheter 
+inte bara för IRF:s forskare utan för forskare i 
+hela världen.
+
+IRF fortsätter att understryka nyttan med rymd-
+väderstudier och nu bedrivs det projekt som fi-
+nansieras av Myndigheten för samhällsskydd och 
+beredskap, MSB, med full fart framåt.
+
+Institutet är en välfungerande forskningsorgan-
+isation som producerar högklassig vetenskap och 
+är en nyckelaktör i nationella, europeiska och in-
+ternationella rymdprojekt. Institutet är kapabelt 
+att utveckla och producera unika rymdinstrument 
+och genomföra långsiktig övervakning av den 
+unika arktiska miljön. Vi har lagt grunden för 
+framtida forskningsinriktningar inom områden 
+som rymdväder, yttre planeter, arktisk forskning 
+och utveckling av ny teknisk infrastruktur såsom 
+testanläggningen SpaceLab, mätningar med 
+stratosfärballonger och småsatelliter (CubeSats). 
+Vi stärker vårt samarbete med rymdindustrin 
+och olika universitet för att säkerställa ännu mer 
+samhällsnytta av vårt arbete.
+
+
+#Resultatredovisning
+
+#Översikt
+
+Samhället är i ökande grad beroende av rymdteknik, 
+och därmed även av rymdforskning. Forskningen 
+vid Institutet för rymdfysik, IRF, bidrar till ökad 
+förståelse för det som händer kring vår planet samt 
+hur solen påverkar vår nära omgivning och övriga 
+delar av solsystemet. Den teknik som utvecklas 
+för att bedriva rymdforskning bidrar också till 
+att skapa nytta för samhällets utveckling och 
+människors välfärd.
+
+IRF har lång erfarenhet av att utveckla och ta 
+ansvar för avancerade mätinstrument i stora 
+internationella forskningsprojekt. Dessa ger 
+möjligheter för forskare att göra nya upptäckter 
+och ger också unika möjligheter att sprida kunskap 
+om, och skapa intresse för, naturvetenskap 
+och teknik i hela samhället. IRF har egna test-
+anläggningar, kalibreringsutrustningar, mekanisk 
+verkstad och renrum för utveckling och integrering 
+av mätinstrument.
+
+IRF har en mycket erfaren och kompetent personal 
+samt en infrastruktur som på ett bra sätt stödjer 
+forskningsprojekten. Den stimulerande och 
+kreativa forskningsmiljön ger goda förutsättningar 
+för nya genombrott.
+
+På regeringens uppdrag genomförde Statskontoret 
+en myndighetsanalys av IRF under året. I rapporten 
+skriver Statskontoret att IRF fullgör sitt uppdrag 
+på ett mycket förtjänstfullt sätt. Rapporten 
+innehåller även en rad rekommendationer, bl.a. 
+att regeringen framgent bör förtydliga IRF:s 
+roll i svensk och internationell rymdverksamhet 
+samt att IRF tar fram förslag på hur institutet 
+kan bidra till att vidareutveckla den svenska 
+rymdverksamheten och redovisa vilka kostnader 
+det skulle medföra. IRF arbetar med att ta fram en 
+åtgärdslista för Statskontorets rekommendationer.
+
+Några av de forskningsområden som IRF:s 
+forskare arbetar med är:
+* Atmosfär-, klimat- och norrskensprocesser i polarområdena.
+* Processer för energiöverföring och acceleration av partiklar i rymdplasma.
+* Turbulens och strukturbildning i rymden.
+* Den dynamiska solen, dess magnetfält och plasmautflöde (solvinden).
+* Vetenskapligt underlag till prognoser om rymdväder.
+* Rymdplasmats växelverkan med solsystemets himlakroppar.
+
+Vetenskapliga resultat sprids genom artiklar i 
+expertgranskade tidskrifter och vid internationella 
+konferenser. IRF arrangerar också egna 
+konferenser och arbetsmöten som bidrar till 
+erfarenhetsutbyte med forskare runt 
+om i världen.
+
+Forskare från IRF har som första-
+författare under året bl.a. publicerat 
+resultat om:
+* Processer kring kometen 67P/Churyumov-Gerasimenko.
+* Struktur och dynamik i Saturnus och dess månars plasma omgivningar.
+* Processer i jordens övre atmosfär 
+under sommarhalvåret.
+*Plasmafysikprocesser i jordens 
+närhet.
+*Gränsskikt och energitransport i 
+jordens magnetosfär.
+* Solvindens växelverkan med mån-
+en, Venus, Ceres och Merkurius.
+* Utflöde av joner från Mars atmo-
+sfär.
+
+IRF bidrar med unik kompetens till utbildningar. 
+Som exempel kan nämnas att många av IRF:s 
+disputerade forskare handleder forskarstuderande. 
+Flera forskare och ingenjörer bidrar till univer-
+sitetsutbildningar och även gymnasieelevers 
+projektarbeten.
+
+Vid slutet av år 2017 var följande engagerade 
+på hel- eller deltid i forskningen på IRF:s fyra 
+verksamhetsorter: 39 anställda disputerade 
+forskare (exklusive 2 tjänstlediga) och 14 
+doktorander. Totalt hade IRF vid årets slut 106 
+anställda (79 män, varav 2 varit tjänstlediga 
+hela året, och 27 kvinnor, varav en tjänstledig 
+del av året). I Kiruna arbetade 65 (exklusive 2 
+tjänstlediga forskare), i Uppsala 34, i Umeå 2 och 
+i Lund 3. Av dessa tjänster var 25 tidsbegränsade 
+(17 i Kiruna, och 8 i Uppsala).
+
+Grundforskningen och den tekniska utvecklingen 
+vid IRF finansieras huvudsakligen med ram-
+anslag från staten och forskningsbidrag från 
+Rymdstyrelsen, Myndigheten för samhällsskydd 
+och beredskap, MSB, och Vetenskapsrådet. 
+Universitet ger stöd till doktorandtjänster och 
+privata stiftelser som Kempestiftelserna bidrar till 
+vissa investeringar. Dessutom får IRF medel från 
+EU och det europeiska rymdorganet ESA genom 
+att utföra forskningsuppdrag för deras räkning.
+
+IRF samverkar aktivt med andra myndigheter och 
+organisationer. Som exempel på samarbeten med 
+svenska universitet kan nämnas att IRF har ett 
+långvarigt samarbete med KTH inom dataanalys 
+och utveckling av mätinstrument; har varit med och 
+initierat forskarskolan i rymdteknik tillsammans 
+med LTU; är ansvarig för att tillsammans med 
+bl.a. Stockholms universitet ta fram underlag till 
+MSB som ska kvalitetssäkra rymdväderprognoser; 
+samt är partner i High Performance Computing 
+Center North, HPC2N, vid Umeå universitet. 
+Internationellt forskningssamarbete presenteras 
+i mer detalj i avsnitt 2.5 och samverkan med 
+näringsliv och samhälle  i avsnitt 5.2.
+
+#Principer för resultatredovisning
+
+I resultatredovisningen har personalkostnader 
+använts som nyckeltal för fördelning av gemen-
+samma kostnader mellan programmen.
+
+Ramanslag och externa medel används för alla 
+typer av verksamhet inom IRF. Kostnader för 
+forskning, undervisning och handledning har 
+schablonberäknats eftersom det inte finns en 
+tydlig gräns mellan olika prestationer. Detta ger 
+enligt vår uppfattning ändå en rättvis bild av 
+fördelningen mellan olika prestationer. 
+
+#Prestationer
+
+IRF delar in verksamheten i tre olika typer av 
+prestationer:
+
+* Forskning och utveckling innefattar publicering 
+av vetenskapliga resultat; insamling av data 
+från, och drift av, vetenskapliga instrument; 
+tillverkning, test och integrering samt planering 
+av nya mätinstrument och forskningsprojekt. 
+Inom denna prestation redovisas även samverkan 
+och informationsaktiviteter (för en detaljerad 
+redovisning, se avsnitt 2 och 5).
+
+* Observatorieverksamhet förser forskare och 
+andra med referensmätningar från marken 
+samt information om solens påverkan på 
+jordens närmiljö. I observatorieverksamheten 
+ingår magnetometrar, riometrar, jonosonder, 
+infraljudmikrofoner och firmamentkameror (se 
+avsnitt 3).
+
+* Medverkan i utbildning. Här redovisas 
+utbildningsinsatser på grundläggande, avancerad 
+och forskarnivå (se avsnitt 4).
+
+IRF bedömer att verksamheten under året mycket 
+väl uppfyller de övergripande kraven i institutets 
+instruktion och regleringsbrev.

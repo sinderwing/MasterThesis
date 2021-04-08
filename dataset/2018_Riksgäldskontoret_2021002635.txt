@@ -1,0 +1,184 @@
+﻿#Riksgäldens roll på finansmarknaden och i samhällsekonomin 
+
+#Säkra en effektiv förvaltning av statens finanser   
+
+Riksgälden ansvarar för att statens betalningsmodell, statsskulden och statliga garantier och lån 
+hanteras effektivt och säkert. Kostnaderna ska vara så låga som möjligt med hänsyn tagen till risk. 
+Myndigheten ansvarar även för tillsynen för finansieringen av hanteringen av kärntekniska 
+restprodukter. 
+
+#Statliga betalningar effektiviseras genom gemensamma avtal och konton 
+
+Riksgälden är statens internbank med ansvar för att förvalta och utveckla den statliga betalnings-
+modellen som omfattar regelverk, avtal, kontostrukturer och system som stöder myndigheternas 
+betalningar. Modellen är konstruerad på ett sådant sätt att alla in- och utbetalningar till och från 
+staten hanteras via de banker som Riksgälden tecknat ramavtal med för samtliga myndigheters 
+räkning. Inbetalningarna är främst skatter medan utbetalningarna kan vara till exempel pensioner, 
+bidrag och studiemedel. Totalt görs betalningar till och från staten på nästan 7 000 miljarder kronor 
+under ett år. Nettot av alla dessa betalningar samlas på ett ställe: statens centralkonto i Riksbanken. 
+
+#Statens dagliga kassa hanteras och statsskulden finansieras till låga kostnader 
+
+Riksgälden förvaltar likvida medel på centralkontot – statskassan – på ett sådant sätt att staten alltid 
+kan fullgöra sina dagliga betalningar och att inga över- eller underskott finns vid dagens slut. Om 
+nettot på centralkontot är positivt placerar Riksgälden överskottet. Om nettot i stället är negativt 
+lånar Riksgälden för att täcka underskottet. Riksgälden gör prognoser över myndigheternas 
+betalningar som tillsammans med förfallande lån utgör grunden för låneplaneringen. Med hjälp av 
+prognoserna kan Riksgälden planera behovet av upplåning effektivt och därmed minska ränte-
+kostnaden och risken för staten. 
+
+Riksgälden ser också till att det finns en beredskap för att hantera framtida lånebehov. Om staten 
+under en period betalar ut mer pengar än den får in, uppstår ett underskott i statsbudgeten. 
+Riksgälden tar då upp lån för att täcka underskottet och statsskulden ökar. När det är överskott i 
+budgeten betalas lån av och statsskulden minskar. På kort sikt kan överskottet i stället placeras för 
+att hantera kommande utbetalningar. Oavsett om det är under- eller överskott i statsbudgeten 
+behöver staten låna för att finansiera återbetalningen av gamla lån som förfaller och därmed ska 
+betalas tillbaka. För att hantera underskott och refinansiering av gamla lån ger Riksgälden framför allt 
+ut (emitterar) statsskuldväxlar (löptider under ett år) och statsobligationer (löptider över ett år). 
+Upplåningen omfattar även lån i utländsk valuta.   
+
+#Garantier och utlåning med kreditrisk ges till vissa projekt efter regeringsbeslut 
+
+Riksgälden tillhandahåller garantier och utlåning till olika projekt utanför staten på regeringens 
+uppdrag efter beslut i riksdagen. Ett statligt garantiåtagande innebär att staten går i borgen för 
+någon annans betalningsåtaganden, vilket leder till en ekonomisk risk för staten. Ett skäl till att staten 
+ger garantier och lån är att vissa projekt har risker som privata finansiärer har svårt att värdera. 
+Riksgälden bedömer riskerna, sätter avgifter och bestämmer villkoren för de garantier som ställs ut.  
+Storleken på avgiften som Riksgälden tar ut för garantin avgörs av risken för att staten inte ska få 
+tillbaka pengarna (kreditrisken). Verksamheten förväntas vara självfinansierad då avgifterna på lång 
+sikt ska täcka kostnaderna för administration och kreditförluster. Det största åtagandet Riksgälden 
+har är garantin till det konsortium som finansierade byggandet av Öresundsbron. Riksgälden ska 
+också bidra till att utveckla och effektivisera samtliga myndigheters garanti- och utlåningsverksam-
+het.  
+
+#Bedriva tillsyn så att kärntekniska restprodukter är finansierade 
+
+Den 1 september 2018 fick Riksgälden ansvaret för att säkra finansieringen av kärntekniska 
+restprodukter. Uppgifterna låg tidigare på Strålsäkerhetsmyndigheten (SSM). Syftet med 
+finansieringen är att den som förorenar står för alla sina kostnader så att inte framtida skattebetalare 
+belastas.  Riksgälden lämnar förslag till regeringen på hur stora kärnavfallsavgifterna och 
+säkerheterna bör vara utifrån underlag om kostnadsberäkningar från reaktorinnehavarna. Avgifterna 
+fastställs vart tredje år för kommande treårsperiod och de placeras hos Kärnavfallsfonden, som är en 
+statlig myndighet med en egen styrelse. Kammarkollegiet sköter på styrelsens uppdrag 
+kansliuppgifter och kapitalförvaltning av fonden. Riksgälden beslutar om utbetalningar från 
+Kärnavfallsfonden till olika mottagare och reviderar användningen av fondmedel. Myndigheten lämnar 
+liksom tidigare yttranden till regeringen om de säkerheter som industrin lämnar är godtagbara. 
+
+#Ansvar för finansiell krishantering i banker och andra institut 
+
+En förutsättning för att samhällsekonomin ska fungera är att det finansiella systemet är stabilt.  
+Det innebär bland annat att det ska gå att göra betalningar, att låna och placera pengar och hantera 
+finansiella risker. Dessa tjänster brukar ses som några av det finansiella systemets centrala 
+funktioner. Betalningar görs främst via bankkonton vilket gör bankerna till centrala aktörer i det 
+finansiella systemet. De svenska bankernas verksamhet är omfattande i förhållandet till den svenska 
+ekonomin och koncentrerad till ett fåtal aktörer som är nära sammanlänkade med varandra. Problem i 
+en bank riskerar därför sprida sig till hela det finansiella systemet. En effektiv hantering av banker i kris 
+är därmed en viktig del i arbetet med att motverka negativa effekter på den finansiella stabiliteten. I 
+Sverige ansvarar Finansdepartementet, Finansinspektionen, Riksbanken och Riksgälden tillsammans 
+för att hålla det finansiella systemet stabilt.  
+
+#Systemviktiga institut hanteras med resolution och livskraftiga institut kan få stöd 
+
+Som Sveriges resolutionsmyndighet ansvarar Riksgälden för både förberedelser och hantering av 
+kriser i banker och andra institut (kreditmarknadsföretag och värdepappersbolag). Resolution är ett 
+särskilt förfarande där staten tar kontroll över ett problemdrabbat institut, som Riksgälden bedömer 
+vara systemviktigt, för att rekonstruera eller avveckla det under ordnade former. Under processen 
+hålls hela eller delar av institutet öppet för att insättare och andra kunder ska ha tillgång till sina 
+konton och övriga tjänster. Därmed tryggas den finansiella stabiliteten. Förlusterna hanteras genom 
+att institutets aktie- och fordringsägare får bära kostnaderna (så kallad skuldnedskrivning eller bail-in).
+Krishanteringen kommer alltså inte att leda till några kostnader för skattebetalarna. Garanterade 
+insättningar är undantagna från skuldnedskrivning. 
+
+Vid hot om en allvarlig störning i det finansiella systemet kan staten i vissa fall ge förebyggande 
+statligt stöd till livskraftiga institut. Sådant stöd ges i form av garantier och kapitaltillskott och är 
+endast tillåtet i särskilda fall. Som stödmyndighet ansvarar Riksgälden för detta. 
+Bidra till ett starkt konsumentskydd för allmänheten  
+Riksgälden ansvarar även för insättningsgarantin och investerarskyddet. Insättningsgarantin skyddar 
+sparande på konto om ett institut (bank, kreditmarknadsföretag eller värdepappersbolag) försätts i 
+konkurs eller av andra skäl inte kan betala ut pengarna. Garantin gäller oavsett om ett krisdrabbat 
+institut hanteras genom resolution eller försätts i konkurs. Det maximala ersättningsbeloppet är 
+950 000 kronor per person och institut. Vid ersättningsfall kan insättare också ansöka om tilläggs-
+belopp för insättningar som är kopplade till särskilda livshändelser, exempelvis försäljning av bostad, 
+för belopp upp till fem miljoner kronor. Genom att säkra sparmedel på institutens konton skapas 
+trygghet hos insättarna. Detta minskar risken för att alltför många kontosparare tar ut sina pengar 
+samtidigt (uttagsanstormningar), vilket kan hota den finansiella stabiliteten. 
+
+Investerarskyddet gäller för finansiella instrument och pengar som institut förfogar över åt kunder i 
+samband med att investeringstjänster utförs såsom köp, försäljning eller förvaring av värdepapper. 
+Skyddet träder i kraft om ett institut går i konkurs och inte kan lämna tillbaka kundernas tillgångar. 
+Den ersättning som kunden kan få beräknas på det marknadsvärde som de aktuella värdepappren
+hade vid konkurstillfället. Staten ersätter upp till 250 000 kronor per kund och institut. 
+
+
+#Riksgäldsdirektören har ordet 
+
+Svensk ekonomi utvecklades väl under 2018 och statsskulden kom att uppvisa den lägsta 
+nivån sedan slutet av sjuttiotalet: 26 procent mätt som andel av BNP. Hos Riksgälden 
+präglades arbetet av att vi fick en ny roll som tillsynsmyndighet för finansieringen av 
+hantering av kärntekniska restprodukter. Vi sjösatte också efter flera års utvecklingsarbete 
+Statens internbanks system (SIBS) som cirka 220 myndigheter använder. Som resolutions-
+myndighet prövade vi för första gången sedan lagen om resolution rädde i kraft om ett 
+institut skulle försättas i resolution  och vi genomförde flera åtgärder för att öka kunskapen 
+om finansiell krishantering.  
+
+Svensk ekonomi utvecklades väl under 2018. En fortsatt god konjunktur och stark arbetsmarknad 
+bidrog till att statsfinanserna stärktes oväntat mycket. Detta tillsammans med en lägre volym lån som 
+förföll och behövde ersättas med nya gjorde att statens upplåningsbehov minskade. Statsskulden 
+kom att uppvisa den lägsta nivån sedan slutet av sjuttiotalet: 26 procent mätt som andel av BNP. 
+Riksgälden drog därför ner utbudet av statsobligationer till en historiskt låg nivå. Den låga stats-
+skulden ställde nya krav på statsskuldsförvaltningen och låneplaneringen både ur ett analytiskt och 
+praktiskt perspektiv. Därtill utvecklades analysen brett kring avvägningen mellan kostnad och risk i 
+statsskuldsförvaltningen.  
+
+Riksgäldens huvudsakliga bidrag till att minimera kostnaden och risken för statsskulden är att 
+bedöma hur skuldens sammansättning ska vara, men också verka för att det är attraktivt för så 
+många investerare som möjligt att låna till oss. Det kräver bland annat att det är lätt att köpa och 
+sälja våra statsskuldsväxlar och -obligationer på andrahandsmarknaden, men också att vi 
+kommunicerar transparent och agerar tydligt och förutsägbart. Vi utvärderas därför årligen av våra 
+återförsäljare och investerare. Förtroendet för oss 2018 var totalt sett det högsta som uppmätts.  
+
+Riksgälden har länge haft hög kompetens inom finansiering av samhällsviktiga verksamheter.  
+Ett kvitto på detta var att Riksgälden blev tillsynsmyndighet för finansieringen av kärntekniska 
+restprodukter. Det är ett uppdrag vi tar på allvar. Principen är att den som förorenar står för alla sina 
+kostnader så att inte framtida skattebetalare belastas. Den nya verksamheten kom på plats under 
+hösten 2018.  
+
+Inom området finansiell stabilitet och konsumentskydd har vi som ett av de första länderna i världen 
+handfasta och skräddarsydda planer för hur alla 160 svenska banker och andra institut ska hanteras 
+i händelse av en finansiell kris. Planerna innebär att institutens funktion räddas, men det är aktie-
+ägare och andra investerare som fullt ut bär risker och kostnader i verksamheterna. Under året 
+prövade vi för första gången om ett institut skulle försättas i resolution, i enlighet med lagen om 
+resolution. Vi genomförde även flera åtgärder för att öka kunskapen om finansiell krishantering hos 
+flera viktiga målgrupper. Vi fortsatte också att utveckla vår policy och analys inom ramen för vårt 
+resolutionsuppdrag. 
+
+Under våren sjösatte vi efter flera års utvecklingsarbete Statens internbanks system (SIBS). I 
+systemet hanterar cirka 220 myndigheter bland annat sina anslag, lån och placeringar hos 
+Riksgälden. Vi vill också vara proaktiva i vårt uppdrag och möta bland annat den snabba tekniska 
+utvecklingen i omvärlden. Under året genomfördes därför en förstudie inför ett projekt som planeras 
+starta 2019 om hur statens framtida betalningsmodell ska se ut. 
+
+Det intensiva arbetet på våra uppdragsavdelningar medförde stor efterfrågan på bland annat juridik- 
+och it-resurser. Samtidigt hade de två avdelningarna stora behov av nyrekryteringar. Det innebar att 
+HR-enheten fick lägga stort fokus på rekryteringar.  
+För att Riksgälden ska kunna bedriva sin verksamhet behövs väl fungerande it-struktur. IT-
+avdelningen hanterade under året efterdyningarna av kontorsflytten och ett arbete inleddes med en 
+ny, mer effektiv organisation. Förberedelser påbörjades även inför omlokaliseringen av vår datahall. 
+Inom Kommunikationsenheten genomfördes en förstudie för att bland annat tillgänglighetsanpassa 
+webben och förbättra dess gränssnitt, som också kommer att påverka  
+IT-avdelningens arbete framöver.   
+
+Riksgäldens säkerhetsarbete har under de senaste åren vuxit kraftigt för att hantera dels nya krav 
+från regeringen med ökad civil beredskap, dels olika typer av risker i omvärlden. Under året delades 
+Riskenheten upp i två enheter – Riskenheten och Säkerhetsenheten – för att skapa bättre förut-
+sättningar för arbetet med finansiella och operativa risker och säkerhetsfrågor såsom cyberhot. Den 
+ökade mängden säkerhetsrelaterade frågor påverkade även enheten Backoffice som genomförde ett 
+betydande arbete för att säkra upp flera affärssystem och Swift (en finansiell meddelandetjänst).  
+
+Riksgäldens viktigaste resurs är våra kompetenta medarbetare. För att sprida medarbetares 
+kunskaper i hela organisationen fortsatte vi att hålla ett antal gemensamma lunchseminarier. Alla 
+medarbetare var också med och tog fram gemensamma förbättringsområden utifrån medarbetar-
+undersökningen 2017. Flytten till nya lokaler bidrog inte enbart till en trivsam kontorsmiljö utan också 
+till att enheter svetsades ihop kring det gemensamma flyttprojektet.  
+För mig är det en ynnest att få leda denna kompetenta myndighet och jag är stolt över vad vi 
+åstadkom tillsammans under 2018.

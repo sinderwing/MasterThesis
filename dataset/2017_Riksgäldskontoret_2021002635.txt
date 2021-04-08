@@ -1,0 +1,269 @@
+﻿#Riksgäldens roll på finansmarknaden och i samhällsekonomin 
+
+Riksgäldskontoret (Riksgälden) arbetar för att statens finanser hanteras effektivt och  
+att det finansiella systemet är stabilt. Riksgälden spelar därmed en viktig roll både i 
+samhällsekonomin och på finansmarknaden. 
+
+#Säkra en effektiv förvaltning av statens finanser   
+
+Riksgälden ansvarar för att statens betalningar, statsskulden och statliga garantier och lån hanteras 
+effektivt och säkert. Kostnaderna ska vara så låga som möjligt samtidigt som risken begränsas.  
+
+#Statliga betalningar  
+
+Riksgälden är statens internbank med ansvar för att förvalta och utveckla den statliga betalnings-
+modellen som omfattar regelverk, avtal, kontostrukturer och system som stöder myndigheternas 
+betalningar. Modellen är konstruerad på ett sådant sätt att alla in- och utbetalningar hanteras via de 
+banker som Riksgälden tecknat avtal med för samtliga myndigheters räkning.  
+
+Inbetalningarna är främst skatter medan utbetalningarna kan vara till exempel pensioner, bidrag och 
+studiemedel. Totalt görs betalningar till och från staten på drygt 6 000 miljarder kronor under ett år. 
+Nettot av alla dessa betalningar samlas på ett ställe: statens centralkonto i Riksbanken. 
+
+#Statens kassa och statsskulden  
+
+Riksgälden förvaltar likvida medel på centralkontot – statskassan – på ett sådant sätt att staten alltid 
+kan fullgöra sina dagliga betalningar och att inga över- eller underskott finns vid dagens slut. Om 
+nettot på centralkontot är positivt placerar Riksgälden överskottet. Om nettot är negativt lånar 
+Riksgälden i stället för att täcka underskottet. Riksgälden gör prognoser över myndigheternas 
+betalningar som tillsammans med förfallande lån utgör grunden för låneplaneringen. Med hjälp av 
+prognoserna kan Riksgälden planera behovet av upplåning effektivt och därmed minska ränte-
+kostnaden och risken för staten. 
+
+Riksgälden ser också till att det finns en beredskap för att hantera framtida lånebehov. Om staten 
+under en period betalar ut mer pengar än den får in, uppstår ett underskott i statsbudgeten. 
+Riksgälden tar då upp lån för att täcka underskottet och statsskulden ökar. När det är överskott i 
+budgeten betalas lån av och statsskulden minskar. På kort sikt kan överskottet i stället placeras för 
+att möta kommande utbetalningar. Oavsett om det är under- eller överskott behöver staten låna för 
+att finansiera återbetalningen av gamla lån som förfaller.  
+
+Riksgälden lånar framför allt genom att ge ut (emittera) statsskuldväxlar (löptider under ett år) och 
+statsobligationer (löptider över ett år). Upplåningen innefattar även lån i utländsk valuta.  
+
+#Garantier och utlåning med kreditrisk  
+
+Riksgälden tillhandahåller garantier och utlåning till olika projekt utanför staten på regeringens 
+uppdrag efter beslut i riksdagen. En garanti innebär att staten går i borgen för någon annans 
+betalningsåtaganden, vilket leder till en ekonomisk risk för staten. Ett skäl till att staten ger garantier 
+och lån är att vissa projekt har risker som privata finansiärer har svårt att värdera. Riksgälden 
+bedömer riskerna, sätter avgifter och bestämmer villkoren för de garantier som ställs ut.  
+
+Storleken på avgiften som Riksgälden tar ut för garantin avgörs av risken för att staten inte ska få 
+tillbaka pengarna (kreditrisken). Verksamheten förväntas vara självfinansierad då avgifterna på lång 
+sikt ska täcka kostnaderna för administration och kreditförluster. Det största åtagandet Riksgälden 
+har är garantin till det konsortium som finansierade byggandet av Öresundsbron. Riksgälden ska 
+också bidra till att utveckla och effektivisera statens samlade garanti- och utlåningsverksamhet.  
+
+#Viktiga uppdrag inom finansiell stabilitet 
+
+En förutsättning för att samhällsekonomin ska fungera är att det finansiella systemet är stabilt.  
+Det innebär bland annat att det ska gå att göra betalningar och att låna och placera pengar.  
+Dessa tjänster brukar ses som några av det finansiella systemets centrala funktioner.  
+
+I Sverige ansvarar Finansdepartementet, Finansinspektionen, Riksbanken och Riksgälden 
+tillsammans för att hålla det finansiella systemet stabilt. Som stöd för effektiv samverkan finns 
+Finansiella stabilitetsrådet där företrädare från regeringen och myndigheterna möts och diskuterar 
+stabilitetsläget och behoven av åtgärder. I rådet kan myndigheterna föra fram sina åsikter om 
+åtgärder, men beslut om åtgärder fattar varje myndighet självständigt inom sitt uppdragsområde.  
+
+Det svenska banksystemet är stort i förhållandet till den svenska ekonomin. Dessutom är det 
+koncentrerat till ett fåtal aktörer som är nära sammanlänkande med varandra. Problem i en bank 
+riskerar därför sprida sig till hela det finansiella systemet. En effektiv hantering av banker i kris är 
+därmed en viktig del i arbetet med att motverka negativa effekter på den finansiella stabiliteten.  
+
+#Bankkrishantering och förebyggande stöd 
+
+Som Sveriges resolutionsmyndighet ansvarar Riksgälden för både förberedelser och hantering  
+av kriser i banker och andra institut. Resolution är ett särskilt förfarande där staten tar kontroll över 
+ett problemdrabbat institut för att rekonstruera eller avveckla det under ordnade former. Under 
+processen hålls hela eller delar av institutet öppet för att insättare och andra kunder ska ha tillgång 
+till sina konton och övriga tjänster. Därmed tryggas den finansiella stabiliteten. Förlusterna i institutet 
+ska bäras av aktie- och fordringsägarna, inte av skattebetalarna.  
+
+Som stödmyndighet ansvarar Riksgälden för förebyggande statligt stöd. Vid hot om en allvarlig 
+störning i det finansiella systemet kan staten i vissa fall ge sådant stöd till livskraftiga institut. 
+
+#Insättningsgarantin och investerarskyddet 
+
+Riksgälden ansvarar även för insättningsgarantin och investerarskyddet. Insättningsgarantin skyddar 
+sparande på konto om ett institut försätts i konkurs eller av andra skäl inte kan betala ut pengarna. 
+På så vis skapas trygghet bland insättarna. Detta minskar risken för att alltför många kontosparare 
+tar ut sina pengar samtidigt (uttagsanstormningar), vilket kan hota den finansiella stabiliteten. 
+
+Investerarskyddet gäller för finansiella instrument och pengar som institut förfogar över åt kunder i 
+samband med att investeringstjänster utförs såsom köp, försäljning eller förvaring av värdepapper. 
+
+
+#Riksgäldsdirektören har ordet 
+
+På Riksgälden lägger vi 2017 bakom oss som ett år med en fortsatt stark svensk ekonomi, 
+ett stort överskott i statsbudgeten, en minskande statsskuld och ett stabilt finansiellt 
+system. Det var också ett år som präglades av fortsatt utveckling inom alla Riksgäldens 
+verksamhetsområden och flytt till nya lokaler. 
+
+I rollen som resolutionsmyndighet ansvarar Riksgälden för förberedelser och hantering av kriser i 
+banker och andra institut. Under 2017 tog vi fram och beslutade om resolutionsplaner för de 
+svenska instituten och fastställde krav på hur mycket eget kapital och nedskrivningsbara skulder de 
+måste ha i sina balansräkningar. Planerna och kravet ska säkra att staten kan hantera krisdrabbade 
+institut på ett sätt som skyddar kunderna, den finansiella stabiliteten och skattebetalarna. Därmed är 
+Sverige nu ännu bättre rustat för att möta finansiella kriser.  
+
+Med resolutionsplaner och minimikrav på nedskrivningsbara skulder på plats ligger vi i framkant i 
+Europa när det gäller att införa den nya ordning för bankkrishantering som följde efter finanskrisen 
+för tio år sedan. Samtidigt finns det mycket kvar att göra, särskilt eftersom det finansiella landskapet 
+ständigt ritas om. Det gäller både bankernas verksamhet och de regelverk de ska leva upp till. Vi 
+måste ha god analys, rätt kompetens och effektiva verktyg för att möta den utvecklingen. Om en kris 
+mot förmodan inträffar ska vi vara väl förberedda. Vi ska också verka för att det är förutsägbart och 
+begripligt vad vi väntas göra i en sådan situation.  
+
+En annan viktig förutsättning för statens förmåga att hantera finansiella kriser är starka statsfinanser. 
+Under 2017 visade statsbudgeten ett stort överskott för andra året i rad och statsskulden som andel 
+av BNP minskade till den lägsta nivån på nära 40 år. Fortsatt god tillväxt i svensk ekonomi, främst 
+driven av investeringar, bidrog till att skatteinkomsterna ökade.  
+
+Statens lånekostnader var fortsatt låga under året bland annat till följd av att marknadsräntorna hölls 
+tillbaka av Riksbankens minusränta och köp av statsobligationer. Billig upplåning för staten är 
+positivt för svenska skattebetalare. Den expansiva penningpolitiken är dessutom en viktig förklaring 
+till den goda utvecklingen av svensk ekonomi. Samtidigt innebär de extremt låga marknadsräntorna 
+att det byggs upp risker i ekonomin, inte minst i form av ökad skuldsättning hos svenska hushåll.  
+
+Hushållens skuldsättning och bostadsprisernas utveckling var några av de frågor som Riksgälden 
+var med och diskuterade i Finansiella stabilitetsrådet under året. Riksgälden ställde sig bakom 
+Finansinspektionens förslag om att skärpa amorteringskravet för att undvika finansiella obalanser.  
+I stabilitetsrådet diskuterades även bland annat följderna av Nordeas planerade flytt av 
+huvudkontoret till Finland. 
+
+En annan fråga som togs upp i stabilitetsrådet var att statsobligationsmarknaden fungerade allt 
+sämre under året. Riksgälden bedömde att likviditeten försämrades och den bilden bekräftades av 
+marknadsaktörerna i en undersökning som genomfördes i slutet av året. Den försämrade likviditeten 
+förklaras dels av Riksbankens obligationsköp, dels av regeländringar och statens minskade 
+lånebehov. Att statsobligationsmarknaden fungerar väl är en förutsättning för att Riksgälden ska 
+kunna leva upp till målet om att minimera kostnaden för statsskulden på sikt. 
+
+Förtroendet för Riksgälden bland investerare och återförsäljare var fortsatt stort i mätningen 2017. 
+Även förtroendet för Riksgälden i rollen som statens internbank låg kvar på en hög nivå. Här är 
+uppdraget att ansvara för att statens betalningsmodell är effektiv och säker. Under 2017 började 
+myndigheterna använda ett nytt ramavtal som bland annat innebär billigare valutabetalningar. 
+
+Omvärldens förtroende för Riksgäldens garanti- och utlåningsverksamhet visade sig genom nya och 
+fördjupade uppdrag. Vi tog bland annat över värderingen av samtliga Sidas garantier. Regeringen 
+fattade också beslut om att Riksgälden under 2018 ska ta över de uppgifter som Strålsäkerhets-
+myndigheten hittills haft i finansieringssystemet för hanteringen av kärnavfall.  
+
+Även medarbetarna är i stort nöjda med Riksgälden. Det visar den enkätundersökning som gjordes 
+under året. Där framgår bland annat att motivationen är hög och att arbetsmiljön utvecklats positivt, 
+vilket är glädjande. Men det finns också områden där vi behöver bli bättre. Under 2017 tog vi fram 
+en strategisk karta som ska ligga till grund för arbetet med att utveckla bland annat dessa områden. 
+
+Etik är en fråga vi kommer att fortsätta jobba aktivt med. Under 2017 beslutade Riksgäldens 
+personalansvarsnämnd att åtalsanmäla tolv medarbetare efter misstanke om att de privat hade 
+mottagit surfplattor, spelkonsoler och presentkort i samband med utbildningar. Det är oerhört viktigt 
+att alla vi som jobbar på Riksgälden och andra myndigheter lever upp till den statliga värdegrunden 
+för att upprätthålla medborgarnas förtroende. 
+
+I slutet av året flyttade Riksgälden in i nya lokaler på Olof Palmes gata i Stockholm. Många med-
+arbetare jobbade hårt med förberedelser inför flytten. En av de prioriterade frågorna var säkerhet, ett 
+område där ambitionsnivån höjdes ytterligare under 2017. När det väl var dags att flytta i december 
+skedde det utan några störningar i verksamheten.  
+
+Nu är vi på plats och ser fram emot att jobba med att stärka den interna kulturen och tillsammans 
+skapa en god arbetsmiljö på det nya kontoret. Samtidigt som vi utför Riksgäldens samhällsviktiga 
+uppdrag på ett öppet, tryggt och professionellt sätt – med medborgarnas bästa för ögonen. 
+
+
+#Organisation och styrning 
+
+De organisatoriska förändringar som Riksgälden genomförde under 2017 var att bilda nya 
+enheter på avdelningarna Finansiell stabilitet och konsumentskydd, IT och Skuldförvaltning. 
+För att effektivisera styrningen av verksamheten togs en strategisk karta fram. Den bidrog 
+till att styra prioriteringar och förtydliga kopplingen mellan avdelningarnas aktiviteter och de 
+strategiska målen i verksamhetsplaneringen för 2018.  
+
+#Organisationsförändringar under 2017 
+
+Riksgäldens uppdragsverksamhet är indelad i fyra avdelningar utifrån regeringens uppdrag till 
+myndigheten: Finansiell stabilitet och konsumentskydd, Garanti och kredit, Skuldförvaltning och 
+Statens internbank. Därutöver finns avdelningarna Ekonomisk analys, IT, Stab och Stöd. 
+Avdelningschefer leder verksamheten inom avdelningarna.  
+
+De förändringar som gjordes i organisationen under 2017 var på enhetsnivå. På avdelningen 
+Finansiell stabilitet och konsumentskydd infördes två enheter: Stora institut och Mellanstora och små 
+institut. Behovet av att dela in avdelningen i enheter har vuxit i takt med att antalet medarbetare ökat. 
+På Skuldförvaltning slogs analysenheten och den tidigare enheten för business intelligence ihop. På 
+IT strukturerades enheterna om något och ett särskilt funktionsansvar infördes. Riksgälden började 
+också förbereda för att ta emot nya medarbetare från Strålsäkerhetsmyndigheten under 2018. 
+
+Riksgälden har även ett vetenskapligt råd med externa deltagare som bidrar med särskild veten-
+skaplig kompetens inom Riksgäldens ansvarsområden. Rådets möten leds av riksgäldsdirektören.  
+
+#Ledning och styrning  
+
+Riksdagen beslutar om de lagar som är grunden för Riksgäldens verksamhet. Regeringen beslutar 
+om förordningar och ett regleringsbrev som styr Riksgäldens verksamhet, myndighetens mål och hur 
+resultaten ska rapporteras. Regeringen utser Riksgäldens styrelse som beslutar om verksamheten. 
+
+#Riksgäldens styrelse 
+
+Riksgäldens styrelse ansvarar för verksamheten och ska se till att den bedrivs författningsenligt och 
+effektivt. Styrelsen beslutar bland annat om arbetsordning, verksamhetsplan, årsredovisning, förslag 
+till riktlinjer för statsskuldens förvaltning och andra frågor som är av större betydelse eller principiell 
+karaktär. Styrelsen ska också säkerställa att det finns en betryggande intern styrning och kontroll. 
+Inom Riksgälden finns en internrevisor som rapporterar direkt till styrelsen. Styrelsen har vidare ett 
+revisionsutskott bestående av styrelsens ordförande, vice ordförande och riksgäldsdirektören. Vid 
+styrelsens möten närvarar två arbetstagarrepresentanter från Saco-S och ST. 
+
+Den 31 december 2017 bestod styrelsen av nio ledamöter, varav alla utom riksgäldsdirektören har 
+förordnande fram till den 31 december 2019. Ylva Hedén Westerdahl, prognoschef på 
+Konjunkturinstitutet, och Nils Öberg, generaldirektör vid Kriminalvården, tillträdde som nya 
+styrelseledamöter under 2017. Stefan Lundgren, tidigare generaldirektör vid Statistiska 
+Centralbyrån, entledigades i februari 2017. För mer information om styrelseledamöterna, se  
+sidan 98. 
+
+#Riksgäldsdirektören  
+
+Riksgäldsdirektören är utsedd av regeringen för att leda verksamheten mot uppsatta mål enligt 
+styrelsens direktiv och riktlinjer. Hans Lindblad är riksgäldsdirektör sedan den 1 februari 2013. 
+Förordnandet gäller till och med den 31 januari 2019. Riksgäldsdirektören och dennes biträdande 
+utgör Riksgäldens verksledning. Riksgäldsdirektören utser den biträdande riksgäldsdirektören och 
+avdelningscheferna.  
+
+#Ledningsgrupp  
+
+Ledningsgruppen ska stötta riksgäldsdirektören i styrningen av myndigheten. Gruppen har bland 
+annat till uppgift att bereda och diskutera strategiska frågeställningar och kontorsövergripande 
+beslut som fattas av riksgäldsdirektören. Gruppen leds av riksgäldsdirektören och i den ingår 
+biträdande riksgäldsdirektören, chefsjuristen och avdelningscheferna. 
+
+#Resolutionsdelegationen  
+
+Resolutionsdelegationen är ett särskilt beslutande organ för frågor som Riksgälden ska pröva enligt 
+lagen om resolution, lagen om förebyggande statligt stöd, lagen om insättningsgaranti och lagen om 
+investerarskydd (se avsnittet Finansiell stabilitet). Beslut fattas i frågor som är av principiell karaktär 
+eller av större betydelse eller avser föreskrifter. Resolutionsdelegationen fastställer en arbetsordning 
+inom sitt ansvarsområde. Riksgäldens styrelse ansvarar för att resolutionsdelegationen tilldelas 
+medel och resurser i övrigt för sin verksamhet, att den verksamheten bedrivs författningsenligt och 
+effektivt samt att den redovisas på ett tillförlitligt sätt.  
+
+Resolutionsdelegationen bestod per den 31 december 2017 av riksgäldsdirektören Hans Lindblad 
+(ordförande), Kerstin Calissendorff, justitieråd i Högsta domstolen, Lars O Grönstedt, ledamot i 
+Riksgäldens styrelse, och Stefan Lindskog, justitieråd och ordförande i Högsta domstolen. 
+Ledamöternas förordnande gäller fram till den 31 januari 2019. 
+
+#Riksgäldens mål  
+
+Utifrån riksdagens och regeringens mål och uppdrag har Riksgälden formulerat följande strategiska mål för verksamheten:  
+* Nå lägsta möjliga kostnad för  statens finansiella förvaltning med beaktande av risk. 
+* Aktivt bidra till en stabil och hållbar finansiell sektor. 
+* Leda utvecklingen inom sina uppdragsområden och därigenom proaktivt bidra till utvecklingen av samhällsekonomin.  
+* Präglas av öppenhet, hög intern effektivitet och kvalitet.  
+* Vara en hållbar och attraktiv arbetsplats med engagerade medarbetare och ledare.  
+
+För att styra verksamheten mot målen tog Riksgälden under 2017 fram en strategisk karta. Den 
+användes i verksamhetsplaneringen för 2018 för att öka långsiktigheten, prioritera aktiviteter och 
+koppla dem till målen.  
+
+#Riksgäldens vision  
+
+Riksgäldens vision är att vi tillsammans ska göra Riksgälden till en förebild, både i Sverige och 
+internationellt. Genom att vara en förebild i alla delar av verksamheten bidrar vi till att säkra en 
+effektiv förvaltning av statens finanser och upprätthålla den finansiella stabiliteten. 

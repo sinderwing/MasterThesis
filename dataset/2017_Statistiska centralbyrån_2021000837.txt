@@ -1,0 +1,155 @@
+﻿#Gd har ordet 
+
+SCB fyller en central funktion i samhällets 
+infrastruktur. Myndighetens uppdrag är att 
+utveckla, framställa och sprida officiell och 
+annan statlig statistik. Lagen om officiell stati-
+stik sätter upp ett antal kriterier för statistikens 
+kvalitet, där statistikens relevans kommer först 
+på listan. Detta ställer höga krav på att SCB:s 
+statistik på ett rättvisande sätt följer med och 
+avspeglar ett föränderligt samhälle. Som ny-
+tillträdd generaldirektör för en myndighet med 
+mycket lång historia kommer jag att sträva 
+efter att den ska fortsätta att leva upp till ett 
+rikt arv och höga ambitioner på detta område. 
+
+Under 2017 har myndigheten i allt väsentligt levererat 
+enligt plan samtidigt som den har mött nya utmaningar. 
+Vägledande för verksamheten har fortsatt varit Strategi 
+2020. Denna sätter upp övergripande mål för områdena 
+statistikens kvalitet, uppgiftslämnarnas börda, SCB som 
+samarbetspartner och myndigheten som aktör i det natio-
+nella och internationella statistiksamarbetet. 
+
+Inför 2017 var en av SCB:s prioriteringar att minska 
+bortfallet och sänka kostnaderna för datainsamling från 
+individer och hushåll. Användandet av extern leverantör 
+av intervjudata till Arbetskraftsundersökningarna (AKU) 
+har tagits ett steg längre, och goda resultat har lett till att 
+hälften av insamlingen i fortsättningen kommer att göras 
+externt. Detta medför övertalighet inom SCB:s egen in-
+samlingsverksamhet, något som skapar både utmaningar 
+för myndigheten och påfrestningar för de medarbetare 
+som berörs. Trots detta har insamlingsverksamheten 
+kunnat prestera enligt plan. Svarsnivåerna stabiliserades. 
+SCB har också förberett organisationen för att kunna 
+arbeta mer med kombinerad insamling som ett alternativ 
+till traditionella telefonintervjuer.  
+
+Bland övriga aktiviteter kan nämnas att SCB under 
+2017 utfört och redovisat ett regeringsuppdrag som för-
+bereder för att den omfattande löpande statistiska upp-
+följningen av Agenda 2030 ska kunna genomföras i 
+Sverige. Flera nya index har införts inom Konsument-
+prisindex (KPI). En ny regional delområdesindelning har 
+tagits fram och gjorts fritt tillgänglig som Öppen data.  
+
+Statistiken har fortsatt göras mer tillgänglig. SCB fick 
+under 2017 Stora kommunikatörspriset för konceptet 
+Sverige i siffror, vilket riktar sig till unga och ovana  
+användare av statistik. Utbudet av statistik i statistik-
+databasen har ökat. Antalet API-anrop ökar kraftigt. 
+Webbplatsen har anpassats för mobila enheter.  
+
+I april fattade regeringen beslut om att omlokalisera 
+delar av verksamheten från Stockholm till Örebro. SCB 
+har omhändertagit detta genom att flytta väsentliga delar 
+av GD-staben, administrativa avdelningen och delar av 
+kommunikationsavdelningen till Örebro. IT-avdelningen 
+och avdelningen för insamling från företag och organisa-
+tioner koncentreras till Örebro. Besluten påverkar cirka 
+100 personer. Av dessa har vissa flyttat med till Örebro, 
+medan andra har lämnat SCB och 32 har blivit uppsagda 
+till följd av arbetsbrist. Omlokaliseringen medför extra 
+kostnader, och i avvaktan på besked om eventuell kom-
+pensation har SCB omprioriterat resurser, något som 
+främst har påverkat tempot i utvecklingsarbetet. De 
+risker som identifierades i den analys som gjordes i sam-
+band med planeringen av omlokaliseringen har kunnat 
+förebyggas och har därmed inte kommit till uttryck. Inga 
+allvarliga fel förekom i den publicerade statistiken. 
+Punktligheten i publiceringen var höga 99 procent. 
+Sjukfrånvaron minskade under året. 
+
+Jag vill framföra min uppskattning till alla medarbetare 
+som under 2017 både har genomfört statistikproduktionen 
+och fortsatt utveckla myndighetens verksamhet. Sam-
+tidigt med detta arbete har det genomförts en krävande 
+omlokalisering, och även förändringar i organisationen 
+av datainsamlingen, vilka båda har lett till påfrestningar 
+för de medarbetare som har fått besked om arbetsbrist. 
+SCB står väl rustat inför 2018 efter ett år som på många 
+sätt varit krävande. Jag ser fram mot att få axla 
+uppdraget att leda verksamheten. 
+
+
+#Inledning 
+ 
+#SCB:S UPPGIFT 
+
+Enligt instruktionen ansvarar SCB för att utveckla, fram-
+ställa och sprida officiell statistik och annan statlig stati-
+stik samt för att samordna systemet för den officiella 
+statistiken.  
+
+SCB har även till uppgift att: 
+* vara nationell statistikbyrå med den innebörd som 
+anges i Europaparlamentets och rådets förordning (EG) 
+nr 223/2009, i lydelsen enligt Europarlamentets och 
+rådets förordning (EU) 2015/759, 
+* utföra de uppgifter gällande årsrapporter som Sverige 
+har enligt artikel 11.4 i Europaparlamentets och rådets 
+förordning (EG) nr 223/2009, 
+* göra långsiktiga prognoser inom arbetsmarknads-, 
+befolknings- och utbildningsområdet, 
+* vara nationell koordinator för Internationella valuta-
+fondens gemensamma datastandard i Sverige, 
+* verka för samarbete mellan de statistikansvariga 
+myndigheterna, 
+* ge råd och stöd till statistikansvariga myndigheter i 
+principiella frågor om den officiella statistikens kvalitet 
+och i frågor om att underlätta uppgiftslämnandet, 
+* senast den 31 mars varje år lämna en rapport till 
+regeringen om systemet för den officiella statistiken, 
+med en analys av de utvärderingar av kvaliteten som de 
+statistikansvariga myndigheterna ska göra enligt 13 a § 
+förordningen (2001:100) om den officiella statistiken, 
+* föra en förteckning över statistikansvariga 
+myndigheters statistikprodukter, och 
+* sammanställa en årlig publiceringsplan för den 
+officiella statistiken. 
+
+SCB får också bedriva sådan tjänsteexport som är direkt 
+kopplad till myndighetens uppgifter samt i mån av resur-
+ser åta sig uppdrag inom ramen för sin statistikverk-
+samhet åt myndigheter och andra uppdragsgivare. 
+
+#Tre verksamhetsområden 
+
+Resultatredovisningen i årsredovisningen är indelad i tre 
+verksamhetsområden: Utveckla, framställa och sprida 
+statistik, Samordning och internationellt statistiskt sam-
+arbete samt Tjänsteexport. För respektive område redo-
+visas verksamhetens prestationer i förhållande till mål 
+och uppgifter enligt instruktion och regleringsbrev. En 
+beskrivning av hur SCB definierat sina prestationer åter-
+finns i avsnittet Upplysningar om resultatredovisningen. 
+Väsentliga insatser som görs för att myndigheten ska 
+kunna vidmakthålla och utveckla verksamheten lyfts 
+också fram. 
+
+#Organisation 
+
+Vid utgången av 2017 fanns 12 avdelningar som var och 
+en hade ett avgränsat ansvarsområde. Under året gjordes 
+Internationella utvecklingssamarbete om till en enhet vid 
+avdelningen för Regioner och miljö. Det var tidigare en 
+egen avdelning. Myndighetens arbetsordning reglerar 
+fördelningen av ansvar och uppgifter. Verksamheten var 
+organiserad i två insamlingsavdelningar, fyra 
+ämnesavdelningar, en kommunikationsavdelning, en 
+avdelning för process och utveckling och en IT-
+avdelning. Vidare fanns en personal- och en 
+administrativ avdelning samt en stab till stöd för 
+myndighetens ledning.
